@@ -15,7 +15,7 @@
 
 <hr><h4>🚀 Minhas Estatísticas :</h4>
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-190321&layout=compact&count_private=true)
+[comment]: <(![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-190321&layout=compact&count_private=true))>
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Gustavo-190321&count_private=true&show_icons=true)
 
