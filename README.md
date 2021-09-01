@@ -20,3 +20,7 @@
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Gustavo-190321&count_private=true&show_icons=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-190321&hide_border=true)
+
+<h4>Contato:<h4>
+  <a href="https://www.linkedin.com/in/gustavo-costa-35124b202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=554199" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
