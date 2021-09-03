@@ -1,6 +1,6 @@
 <h1><img src="https://emoji.gg/assets/emoji/6207-meong-cool.gif" width="30"/> Bem-Vindo ! </h1>
 
-<h4>Meu nome é Gustavo Murilo Costa. Sou Estudante no Centro Universitario Campos de Andrade. Estou no 4º Periodo cursando Ciências da Computação💻.</h4>
+<h4>Meu nome é Gustavo Murilo Costa. Sou Estudante no Centro Universitário Campos de Andrade. Estou no 4º Período cursando Ciências da Computação💻.</h4>
 <p><p>
 
 <hr>✨ Linguagens e Ferramentas <br>
