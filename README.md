@@ -3,16 +3,20 @@
 <h4>Meu nome é Gustavo Murilo Costa. Sou Estudante no Centro Universitário Campos de Andrade. Estou no 4º Período cursando Ciências da Computação💻.</h4>
 <p><p>
 
-<hr>✨ Linguagens e Ferramentas <br>
+<hr>✨ Linguagens e Ferramentas :<br>
 
 <P><li>Java.<P>
 <P><li>HTML/CSS.<P>
 <P><li>JavaScript.<P>
 <P><li>Linguagem C.<P>
-<P><li>Metodologia Agile.<P>
+<P><li>Metodologia Ágil.<P>
 <P><li>Linguagem de Consulta Estruturada (SQL).<P>
 <P><li>Cisco Packet Tracer.<P>
 
+<hr>📚 Cursos em que estou estudando :<br>
+<p><li>Java 2021 COMPLETO: Do Zero ao Profissional - Prof. Leonardo Leitão - Udemy<p>
+<p><li>Curso Web Moderno Completo com JavaScript 2021 - Prof. Leonardo Leitão - Udemy<p>
+  
 <hr><h4>🚀 Minhas Estatísticas :</h4>
 
 [comment]: <(![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-190321&layout=compact&count_private=true))>
