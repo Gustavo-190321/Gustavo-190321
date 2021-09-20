@@ -1,6 +1,6 @@
 <h1><img src="https://emoji.gg/assets/emoji/6207-meong-cool.gif" width="30"/> Bem-Vindo ! </h1>
  
-<h4>Minhas Linguagens e Ferramentas :<h4>
+<h4>⚙️ Minhas Linguagens e Ferramentas :<h4>
   
 Java<p>
 HTML/CSS.<p>
