@@ -1,19 +1,16 @@
 <h1><img src="https://emoji.gg/assets/emoji/6207-meong-cool.gif" width="30"/> Bem-Vindo ! </h1>
+ 
+<h4>Minhas Linguagens e Ferramentas :<h4>
+  
+Java<p>
+HTML/CSS.<p>
+JavaScript.<p>
+Linguagem C.<p>
+Linguagem de Consulta Estruturada (SQL).<p>
 
-<h4>Meu nome é Gustavo Murilo Costa. Sou Estudante no Centro Universitário Campos de Andrade. Estou no 4º Período cursando Ciências da Computação💻.</h4>
-<p><p>
-
-<hr>✨ Linguagens e Ferramentas :<br>
-
-<P><li>Java.<P>
-<P><li>HTML/CSS.<P>
-<P><li>JavaScript.<P>
-<P><li>Linguagem C.<P>
-<P><li>Linguagem de Consulta Estruturada (SQL).<P>
-
-<hr>📚 Cursos em que estou estudando :<br>
-<p><li>Java 2021 COMPLETO: Do Zero ao Profissional - Prof. Leonardo Leitão - Udemy<p>
-<p><li>Curso Web Moderno Completo com JavaScript 2021 - Prof. Leonardo Leitão - Udemy<p>
+<hr>📚 Cursos em que estou estudando :<br><p>
+<p>Java 2021 COMPLETO: Do Zero ao Profissional - Prof. Leonardo Leitão - Udemy<p>
+Curso Web Moderno Completo com JavaScript 2021 - Prof. Leonardo Leitão - Udemy<p>
   
 <hr><h4>🚀 Minhas Estatísticas :</h4>
 
