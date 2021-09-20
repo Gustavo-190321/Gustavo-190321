@@ -9,9 +9,7 @@
 <P><li>HTML/CSS.<P>
 <P><li>JavaScript.<P>
 <P><li>Linguagem C.<P>
-<P><li>Metodologia Ágil.<P>
 <P><li>Linguagem de Consulta Estruturada (SQL).<P>
-<P><li>Cisco Packet Tracer.<P>
 
 <hr>📚 Cursos em que estou estudando :<br>
 <p><li>Java 2021 COMPLETO: Do Zero ao Profissional - Prof. Leonardo Leitão - Udemy<p>
